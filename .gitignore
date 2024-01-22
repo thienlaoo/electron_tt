@@ -1,1 +1,4 @@
 /node_modules/
+/electron-win32-ia32/
+/electron-win32-x64/
+
